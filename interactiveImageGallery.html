@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>nteractive Image Gallery</title>
+    <link rel="stylesheet" href="interactiveImageGallery.css" />
+  </head>
+  <body>
+    <div class="main-container">
+      <div class="input-field-section">
+        <h1>Interactive Image Gallery</h1>
+        <br />
+        <input
+          class="input-field"
+          id="url-input-field"
+          type="text"
+          placeholder="Enter URL"
+        />
+        <button id="Add-image-button" class="image-button">Add Image</button>
+        <p>
+          <span style="color: white; text-decoration: underline"
+            >Spiderman image:</span
+          >
+          &nbsp;&nbsp;
+          https://www.pixelstalk.net/wp-content/uploads/image11/Spiderman-in-a-colorful-comic-book-style-leaping-towards-the-viewer.jpg
+        </p>
+        <p>
+          <span style="color: white; text-decoration: underline"
+            >Batman image:</span
+          >
+          &nbsp;&nbsp;
+          https://images.hdqwalls.com/wallpapers/bthumb/the-batman-unseen-face-qv.jpg
+        </p>
+      </div>
+
+      <section id="gallery-section" class="gallerySection"></section>
+    </div>
+    <script src="interactiveImageGallery.js"></script>
+  </body>
+</html>
