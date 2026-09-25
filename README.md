@@ -49,7 +49,7 @@ What problem does this application solve?
 
 
 -  User Input area to enter an image URL to display
--  A window to display yhe image
+-  A window to display the image
 -  Functionality to remove the image
 
 ---
