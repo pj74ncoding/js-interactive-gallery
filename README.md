@@ -3,7 +3,7 @@
 
 
 
-Created an application to display any images
+Created an application to display images
 
 
 Live Demo: https://js-interactive-gallery.vercel.app/
