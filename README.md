@@ -1,5 +1,5 @@
 # interactiveGallery-js
-Built a basic application to display images
+
 
 
 
