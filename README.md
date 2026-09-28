@@ -29,24 +29,14 @@ Live Demo: https://js-interactive-gallery.vercel.app/
 ## Overview
 
 ### Motivation
-
-
-
-### Objective
-
-What problem does this application solve?
+To build a visual interactive tool to improve my JavaScript skills.
 
 ### Learning Outcomes
 
 - Learnt how to create elements in JavaScript
 - Learnt how to append a child in JavaScript
 
-
-
-
 ## Project Features
-
-
 
 -  User Input area to enter an image URL to display
 -  A window to display the image
@@ -85,11 +75,6 @@ client/
 |   interactiveImageGallery.js
 |
   
-
-    
-
-      
-
 ```
 
 ---
@@ -102,8 +87,6 @@ client/
 git clone https://github.com/pj74ncoding/js-interactive-gallery.git
 cd js-interactive-gallery
 
-
-
 ```
 
 ### Install Dependencies
@@ -112,9 +95,6 @@ Frontend:
 
 ```bash
 cd js-interactive-gallery
-
-
-
 npm install
 ```
 
@@ -125,8 +105,6 @@ Frontend:
 ```bash
 npm start
 ```
-
-
 
 Add inside README:
 
