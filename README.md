@@ -38,7 +38,7 @@ To build a visual interactive tool to improve my JavaScript skills.
 
 ## Project Features
 
--  User Input area to enter an image URL to display
+-  User input area to enter an image URL to display
 -  A window to display the image
 -  Functionality to remove the image
 
