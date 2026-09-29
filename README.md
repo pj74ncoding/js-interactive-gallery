@@ -29,7 +29,10 @@ Live Demo: https://js-interactive-gallery.vercel.app/
 ## Overview
 
 ### Motivation
-To build a visual interactive tool to improve my JavaScript skills.
+
+- ITonlinelearning course project
+
+ Build a visual interactive tool to improve my JavaScript skills.
 
 ### Learning Outcomes
 
