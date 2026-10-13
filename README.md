@@ -1,10 +1,6 @@
 # interactiveGallery-js
 
-
-
-
 Created an application to display images
-
 
 Live Demo: https://js-interactive-gallery.vercel.app/
 
@@ -97,25 +93,16 @@ cd js-interactive-gallery
 Frontend:
 
 ```bash
-cd js-interactive-gallery
 npm install
 ```
 
-### Run Development Servers
+### Run Application
 
 Frontend:
 
 ```bash
 npm start
 ```
-
-Add inside README:
-
-```markdown
-![Home Page](assets/home.png)
-![Dashboard](assets/dashboard.png)
-```
-
 ---
 
 ## Future Improvements
